@@ -1,0 +1,17 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23liC5RYrV1BQ9ZsdG # ID клієнта, отриманий з GitHub
+            client-secret: 81b84f577629232da93ee08cddc04cf3f9004c30  # Секрет клієнта, отриманий з GitHub
+            scope:
+              - read:user  # Дозволи для доступу до профілю користувача
+            redirect-uri: "{baseUrl}/login/oauth2/code/{registrationId}"
+        provider:
+          github:
+            authorization-uri: https://github.com/login/oauth/authorize
+            token-uri: https://github.com/login/oauth/access_token
+            user-info-uri: https://api.github.com/user
+            user-name-attribute: login  # Атрибут, що використовується для отримання імені користувача

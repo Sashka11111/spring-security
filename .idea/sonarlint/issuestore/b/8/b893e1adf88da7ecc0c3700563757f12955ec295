@@ -1,0 +1,9 @@
+
+’
+java:S1192"JDefine a constant instead of duplicating this literal "/userHome" 3 times.(çâ·ùÿÿÿÿ8ãÛß—®2J$f7562db2-eb8d-4e35-ba1a-e5ff3eed9e34
+
+java:S1192"GDefine a constant instead of duplicating this literal "/login" 3 times.(—ºÅèüÿÿÿÿ8ä¢İ—®2J$da940607-0e0a-41da-9845-26f01bc6bd33
+o
+java:S5344/",Use secure "PasswordEncoder" implementation.(å‰ö8Ö÷Ü—®2J$d9b54cd1-8794-4d41-9730-c68a80ed9928
+~
+java:S1874/";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö8Ö÷Ü—®2J$20932b97-9a9a-44a1-9ab1-6a4a6a5257e5
