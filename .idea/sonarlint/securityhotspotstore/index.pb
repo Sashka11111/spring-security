@@ -29,3 +29,5 @@ Lsecurity-demo/src/test/java/com/liamtseva/security_demo/UserServiceTest.java,0
 [security-demo/src/main/java/com/liamtseva/security_demo/service/UserDetailsServiceImpl.java,c\c\cc94639d2849e24f8ece175e84742aa667084e4b
 H
 security-demo/.gitignore,2\5\25c6f743de1ab932b761ec699defb7d310a3e154
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
